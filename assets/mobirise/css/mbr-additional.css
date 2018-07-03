@@ -2415,6 +2415,28 @@ body {
 .cid-qTwCKiBRzS .mbr-section-btn {
   color: #767676;
 }
+.cid-qWJjWb1Qt9 {
+  padding-top: 15px;
+  padding-bottom: 0px;
+  background: linear-gradient(45deg, #ffffff, #cccccc);
+}
+@media (min-width: 992px) {
+  .cid-qWJjWb1Qt9 .mbr-figure {
+    padding-left: 4rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-qWJjWb1Qt9 .mbr-figure {
+    padding-top: 3rem;
+  }
+}
+.cid-qWJjWb1Qt9 .mbr-section-title {
+  color: #000000;
+}
+.cid-qWJjWb1Qt9 .mbr-text,
+.cid-qWJjWb1Qt9 .mbr-section-btn {
+  color: #767676;
+}
 .cid-qTDefDy0mW {
   padding-top: 60px;
   padding-bottom: 60px;
